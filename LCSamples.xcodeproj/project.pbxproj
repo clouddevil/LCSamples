@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9627F536247C67B300B5126F /* maxUncrossedLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9627F535247C67B300B5126F /* maxUncrossedLines.swift */; };
+		967BC0E624815BCD00405CEB /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967BC0E524815BCD00405CEB /* CourseSchedule.swift */; };
 		969DF457247F9CA300A45552 /* countBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969DF456247F9CA300A45552 /* countBits.swift */; };
 		96A646DC247E4E4A00AEA976 /* possibleBipartition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */; };
 		96A9C6C2247A689700BDD0F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C6C1247A689700BDD0F9 /* AppDelegate.swift */; };
@@ -86,6 +87,7 @@
 
 /* Begin PBXFileReference section */
 		9627F535247C67B300B5126F /* maxUncrossedLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxUncrossedLines.swift; sourceTree = "<group>"; };
+		967BC0E524815BCD00405CEB /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CourseSchedule.swift; path = Problems/CourseSchedule.swift; sourceTree = "<group>"; };
 		969DF456247F9CA300A45552 /* countBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countBits.swift; sourceTree = "<group>"; };
 		96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = possibleBipartition.swift; sourceTree = "<group>"; };
 		96A9C6BE247A689700BDD0F9 /* LCSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LCSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -179,6 +181,7 @@
 		96A9C6B5247A689700BDD0F9 = {
 			isa = PBXGroup;
 			children = (
+				967BC0E524815BCD00405CEB /* CourseSchedule.swift */,
 				96A9C6F1247A693100BDD0F9 /* Problems */,
 				96A9C6C0247A689700BDD0F9 /* LCSamples */,
 				96A9C6D7247A689D00BDD0F9 /* LCSamplesTests */,
@@ -468,6 +471,7 @@
 				96A9C744247A696800BDD0F9 /* findJudge.swift in Sources */,
 				96A9C73C247A696800BDD0F9 /* CountingElements.swift in Sources */,
 				96A9C6C4247A689700BDD0F9 /* SceneDelegate.swift in Sources */,
+				967BC0E624815BCD00405CEB /* CourseSchedule.swift in Sources */,
 				96A9C731247A696800BDD0F9 /* leftMostColumnWithOne.swift in Sources */,
 				96A9C738247A696800BDD0F9 /* canJump.swift in Sources */,
 				96A9C72C247A696800BDD0F9 /* minPathsum.swift in Sources */,
