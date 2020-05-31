@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		9627F536247C67B300B5126F /* maxUncrossedLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9627F535247C67B300B5126F /* maxUncrossedLines.swift */; };
 		967B73E3248281F300F301FC /* ClosestPointsToOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967B73E2248281F300F301FC /* ClosestPointsToOrigin.swift */; };
+		967B73E52483EAB900F301FC /* EditDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967B73E42483EAB900F301FC /* EditDistance.swift */; };
 		967BC0E624815BCD00405CEB /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967BC0E524815BCD00405CEB /* CourseSchedule.swift */; };
 		969DF457247F9CA300A45552 /* countBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969DF456247F9CA300A45552 /* countBits.swift */; };
 		96A646DC247E4E4A00AEA976 /* possibleBipartition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */; };
@@ -89,6 +90,7 @@
 /* Begin PBXFileReference section */
 		9627F535247C67B300B5126F /* maxUncrossedLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxUncrossedLines.swift; sourceTree = "<group>"; };
 		967B73E2248281F300F301FC /* ClosestPointsToOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosestPointsToOrigin.swift; sourceTree = "<group>"; };
+		967B73E42483EAB900F301FC /* EditDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDistance.swift; sourceTree = "<group>"; };
 		967BC0E524815BCD00405CEB /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CourseSchedule.swift; path = Problems/CourseSchedule.swift; sourceTree = "<group>"; };
 		969DF456247F9CA300A45552 /* countBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countBits.swift; sourceTree = "<group>"; };
 		96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = possibleBipartition.swift; sourceTree = "<group>"; };
@@ -296,6 +298,7 @@
 				9627F535247C67B300B5126F /* maxUncrossedLines.swift */,
 				96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */,
 				969DF456247F9CA300A45552 /* countBits.swift */,
+				967B73E42483EAB900F301FC /* EditDistance.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -469,6 +472,7 @@
 				96A9C741247A696800BDD0F9 /* GroupAnagramms.swift in Sources */,
 				96A9C721247A696800BDD0F9 /* intervalIntersection.swift in Sources */,
 				96A9C746247A696800BDD0F9 /* canConstruct.swift in Sources */,
+				967B73E52483EAB900F301FC /* EditDistance.swift in Sources */,
 				9627F536247C67B300B5126F /* maxUncrossedLines.swift in Sources */,
 				96A9C74D247A696800BDD0F9 /* longestCommonSubsequence.swift in Sources */,
 				96A9C740247A696800BDD0F9 /* numJewelsInStones.swift in Sources */,
