@@ -71,6 +71,7 @@
 		96A9C74D247A696800BDD0F9 /* longestCommonSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C71E247A696800BDD0F9 /* longestCommonSubsequence.swift */; };
 		96A9C74E247A696800BDD0F9 /* numOfIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C71F247A696800BDD0F9 /* numOfIslands.swift */; };
 		96A9C74F247A696800BDD0F9 /* Trie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C720247A696800BDD0F9 /* Trie.swift */; };
+		96FBAE9F2488D8EA0006FABF /* ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96FBAE9E2488D8EA0006FABF /* ReverseString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -161,6 +162,7 @@
 		96A9C71E247A696800BDD0F9 /* longestCommonSubsequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = longestCommonSubsequence.swift; sourceTree = "<group>"; };
 		96A9C71F247A696800BDD0F9 /* numOfIslands.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = numOfIslands.swift; sourceTree = "<group>"; };
 		96A9C720247A696800BDD0F9 /* Trie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Trie.swift; sourceTree = "<group>"; };
+		96FBAE9E2488D8EA0006FABF /* ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -308,6 +310,7 @@
 				967B73E724850F7F00F301FC /* InvertBinaryTree.swift */,
 				962F796524865B6900907972 /* DeleteNodeInLinkedList.swift */,
 				9681244D24878C1C00069929 /* TwoCityScheduling.swift */,
+				96FBAE9E2488D8EA0006FABF /* ReverseString.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -448,6 +451,7 @@
 				96A9C73F247A696800BDD0F9 /* MinStack.swift in Sources */,
 				96A9C74E247A696800BDD0F9 /* numOfIslands.swift in Sources */,
 				96A9C72F247A696800BDD0F9 /* LastStoneWeight.swift in Sources */,
+				96FBAE9F2488D8EA0006FABF /* ReverseString.swift in Sources */,
 				969DF457247F9CA300A45552 /* countBits.swift in Sources */,
 				96A9C74F247A696800BDD0F9 /* Trie.swift in Sources */,
 				96A9C73E247A696800BDD0F9 /* maxSubarraySumCircular.swift in Sources */,
