@@ -14,6 +14,7 @@
 		967B73E824850F7F00F301FC /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967B73E724850F7F00F301FC /* InvertBinaryTree.swift */; };
 		967BC0E624815BCD00405CEB /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967BC0E524815BCD00405CEB /* CourseSchedule.swift */; };
 		9681244E24878C1C00069929 /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9681244D24878C1C00069929 /* TwoCityScheduling.swift */; };
+		968C36FD248AE08F002D55ED /* RandomPickWithWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */; };
 		969DF457247F9CA300A45552 /* countBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969DF456247F9CA300A45552 /* countBits.swift */; };
 		96A646DC247E4E4A00AEA976 /* possibleBipartition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */; };
 		96A9C6C2247A689700BDD0F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C6C1247A689700BDD0F9 /* AppDelegate.swift */; };
@@ -99,6 +100,7 @@
 		967B73E724850F7F00F301FC /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
 		967BC0E524815BCD00405CEB /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CourseSchedule.swift; path = Problems/CourseSchedule.swift; sourceTree = "<group>"; };
 		9681244D24878C1C00069929 /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
+		968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomPickWithWeight.swift; sourceTree = "<group>"; };
 		969DF456247F9CA300A45552 /* countBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countBits.swift; sourceTree = "<group>"; };
 		96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = possibleBipartition.swift; sourceTree = "<group>"; };
 		96A9C6BE247A689700BDD0F9 /* LCSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LCSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -311,6 +313,7 @@
 				962F796524865B6900907972 /* DeleteNodeInLinkedList.swift */,
 				9681244D24878C1C00069929 /* TwoCityScheduling.swift */,
 				96FBAE9E2488D8EA0006FABF /* ReverseString.swift */,
+				968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -469,6 +472,7 @@
 				96A9C73D247A696800BDD0F9 /* binarySearch.swift in Sources */,
 				96A9C74A247A696800BDD0F9 /* MaxProfit.swift in Sources */,
 				96A9C727247A696800BDD0F9 /* floodFill.swift in Sources */,
+				968C36FD248AE08F002D55ED /* RandomPickWithWeight.swift in Sources */,
 				96A9C72D247A696800BDD0F9 /* checkValidString.swift in Sources */,
 				96A9C730247A696800BDD0F9 /* isCousins.swift in Sources */,
 				96A9C72E247A696800BDD0F9 /* firstUniqChar.swift in Sources */,
