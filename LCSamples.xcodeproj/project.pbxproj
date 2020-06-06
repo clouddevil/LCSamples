@@ -15,6 +15,7 @@
 		967BC0E624815BCD00405CEB /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967BC0E524815BCD00405CEB /* CourseSchedule.swift */; };
 		9681244E24878C1C00069929 /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9681244D24878C1C00069929 /* TwoCityScheduling.swift */; };
 		968C36FD248AE08F002D55ED /* RandomPickWithWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */; };
+		968C36FF248B8278002D55ED /* ReconstructQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968C36FE248B8278002D55ED /* ReconstructQueue.swift */; };
 		969DF457247F9CA300A45552 /* countBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969DF456247F9CA300A45552 /* countBits.swift */; };
 		96A646DC247E4E4A00AEA976 /* possibleBipartition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */; };
 		96A9C6C2247A689700BDD0F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C6C1247A689700BDD0F9 /* AppDelegate.swift */; };
@@ -101,6 +102,7 @@
 		967BC0E524815BCD00405CEB /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CourseSchedule.swift; path = Problems/CourseSchedule.swift; sourceTree = "<group>"; };
 		9681244D24878C1C00069929 /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
 		968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomPickWithWeight.swift; sourceTree = "<group>"; };
+		968C36FE248B8278002D55ED /* ReconstructQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReconstructQueue.swift; sourceTree = "<group>"; };
 		969DF456247F9CA300A45552 /* countBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countBits.swift; sourceTree = "<group>"; };
 		96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = possibleBipartition.swift; sourceTree = "<group>"; };
 		96A9C6BE247A689700BDD0F9 /* LCSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LCSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -314,6 +316,7 @@
 				9681244D24878C1C00069929 /* TwoCityScheduling.swift */,
 				96FBAE9E2488D8EA0006FABF /* ReverseString.swift */,
 				968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */,
+				968C36FE248B8278002D55ED /* ReconstructQueue.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -455,6 +458,7 @@
 				96A9C74E247A696800BDD0F9 /* numOfIslands.swift in Sources */,
 				96A9C72F247A696800BDD0F9 /* LastStoneWeight.swift in Sources */,
 				96FBAE9F2488D8EA0006FABF /* ReverseString.swift in Sources */,
+				968C36FF248B8278002D55ED /* ReconstructQueue.swift in Sources */,
 				969DF457247F9CA300A45552 /* countBits.swift in Sources */,
 				96A9C74F247A696800BDD0F9 /* Trie.swift in Sources */,
 				96A9C73E247A696800BDD0F9 /* maxSubarraySumCircular.swift in Sources */,
