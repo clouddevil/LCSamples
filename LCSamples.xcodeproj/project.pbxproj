@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		960F3761248CCD5800C07F7B /* CoinChange2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960F3760248CCD5800C07F7B /* CoinChange2.swift */; };
+		960F3765248E1B6700C07F7B /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960F3764248E1B6700C07F7B /* PowerOfTwo.swift */; };
 		9627F536247C67B300B5126F /* maxUncrossedLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9627F535247C67B300B5126F /* maxUncrossedLines.swift */; };
 		962F796624865B6900907972 /* DeleteNodeInLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 962F796524865B6900907972 /* DeleteNodeInLinkedList.swift */; };
 		967B73E3248281F300F301FC /* ClosestPointsToOrigin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967B73E2248281F300F301FC /* ClosestPointsToOrigin.swift */; };
@@ -96,6 +97,7 @@
 
 /* Begin PBXFileReference section */
 		960F3760248CCD5800C07F7B /* CoinChange2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinChange2.swift; sourceTree = "<group>"; };
+		960F3764248E1B6700C07F7B /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
 		9627F535247C67B300B5126F /* maxUncrossedLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxUncrossedLines.swift; sourceTree = "<group>"; };
 		962F796524865B6900907972 /* DeleteNodeInLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteNodeInLinkedList.swift; sourceTree = "<group>"; };
 		967B73E2248281F300F301FC /* ClosestPointsToOrigin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosestPointsToOrigin.swift; sourceTree = "<group>"; };
@@ -320,6 +322,7 @@
 				968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */,
 				968C36FE248B8278002D55ED /* ReconstructQueue.swift */,
 				960F3760248CCD5800C07F7B /* CoinChange2.swift */,
+				960F3764248E1B6700C07F7B /* PowerOfTwo.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -494,6 +497,7 @@
 				96A646DC247E4E4A00AEA976 /* possibleBipartition.swift in Sources */,
 				96A9C735247A696800BDD0F9 /* frequencySort.swift in Sources */,
 				967B73E3248281F300F301FC /* ClosestPointsToOrigin.swift in Sources */,
+				960F3765248E1B6700C07F7B /* PowerOfTwo.swift in Sources */,
 				96A9C749247A696800BDD0F9 /* removeKdigits.swift in Sources */,
 				96A9C741247A696800BDD0F9 /* GroupAnagramms.swift in Sources */,
 				96A9C721247A696800BDD0F9 /* intervalIntersection.swift in Sources */,
