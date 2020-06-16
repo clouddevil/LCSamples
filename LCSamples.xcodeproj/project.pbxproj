@@ -25,6 +25,7 @@
 		968C36FD248AE08F002D55ED /* RandomPickWithWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */; };
 		968C36FF248B8278002D55ED /* ReconstructQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968C36FE248B8278002D55ED /* ReconstructQueue.swift */; };
 		9694007C2492368C00002C13 /* SortColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9694007B2492368C00002C13 /* SortColors.swift */; };
+		969CE8A12498B12B00437EC1 /* ValidateIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969CE8A02498B12B00437EC1 /* ValidateIPAddress.swift */; };
 		969DF457247F9CA300A45552 /* countBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 969DF456247F9CA300A45552 /* countBits.swift */; };
 		96A646DC247E4E4A00AEA976 /* possibleBipartition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */; };
 		96A9C6C2247A689700BDD0F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C6C1247A689700BDD0F9 /* AppDelegate.swift */; };
@@ -122,6 +123,7 @@
 		968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomPickWithWeight.swift; sourceTree = "<group>"; };
 		968C36FE248B8278002D55ED /* ReconstructQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReconstructQueue.swift; sourceTree = "<group>"; };
 		9694007B2492368C00002C13 /* SortColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortColors.swift; sourceTree = "<group>"; };
+		969CE8A02498B12B00437EC1 /* ValidateIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateIPAddress.swift; sourceTree = "<group>"; };
 		969DF456247F9CA300A45552 /* countBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countBits.swift; sourceTree = "<group>"; };
 		96A646DB247E4E4A00AEA976 /* possibleBipartition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = possibleBipartition.swift; sourceTree = "<group>"; };
 		96A9C6BE247A689700BDD0F9 /* LCSamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LCSamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -346,6 +348,7 @@
 				967392B524936CFF001B5DBD /* InsertDeleteGetRandom.swift */,
 				967392B72494D1F1001B5DBD /* LargestDivisibleSubset.swift */,
 				967392BD24975E9B001B5DBD /* SearchInBinarySearchTree.swift */,
+				969CE8A02498B12B00437EC1 /* ValidateIPAddress.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -542,6 +545,7 @@
 				96A9C731247A696800BDD0F9 /* leftMostColumnWithOne.swift in Sources */,
 				96A9C738247A696800BDD0F9 /* canJump.swift in Sources */,
 				96A9C72C247A696800BDD0F9 /* minPathsum.swift in Sources */,
+				969CE8A12498B12B00437EC1 /* ValidateIPAddress.swift in Sources */,
 				96A9C743247A696800BDD0F9 /* StockSpanner.swift in Sources */,
 				9694007C2492368C00002C13 /* SortColors.swift in Sources */,
 				96A9C732247A696800BDD0F9 /* LRUCache.swift in Sources */,
