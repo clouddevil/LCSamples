@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		960DBBF7249A013600F3940E /* SurroundedRegions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960DBBF6249A013600F3940E /* SurroundedRegions.swift */; };
 		960F3761248CCD5800C07F7B /* CoinChange2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960F3760248CCD5800C07F7B /* CoinChange2.swift */; };
 		960F3765248E1B6700C07F7B /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960F3764248E1B6700C07F7B /* PowerOfTwo.swift */; };
 		960F3769248F7EB500C07F7B /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960F3768248F7EB500C07F7B /* IsSubsequence.swift */; };
@@ -104,6 +105,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		960DBBF6249A013600F3940E /* SurroundedRegions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurroundedRegions.swift; sourceTree = "<group>"; };
 		960F3760248CCD5800C07F7B /* CoinChange2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinChange2.swift; sourceTree = "<group>"; };
 		960F3764248E1B6700C07F7B /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
 		960F3768248F7EB500C07F7B /* IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSubsequence.swift; sourceTree = "<group>"; };
@@ -349,6 +351,7 @@
 				967392B72494D1F1001B5DBD /* LargestDivisibleSubset.swift */,
 				967392BD24975E9B001B5DBD /* SearchInBinarySearchTree.swift */,
 				969CE8A02498B12B00437EC1 /* ValidateIPAddress.swift */,
+				960DBBF6249A013600F3940E /* SurroundedRegions.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -503,6 +506,7 @@
 				96A9C747247A696800BDD0F9 /* maximalSquare.swift in Sources */,
 				96A9C726247A696800BDD0F9 /* majorityElement.swift in Sources */,
 				96A9C745247A696800BDD0F9 /* shiftString.swift in Sources */,
+				960DBBF7249A013600F3940E /* SurroundedRegions.swift in Sources */,
 				967B73E824850F7F00F301FC /* InvertBinaryTree.swift in Sources */,
 				96A9C6C2247A689700BDD0F9 /* AppDelegate.swift in Sources */,
 				96A9C729247A696800BDD0F9 /* rangeBitwiseAnd.swift in Sources */,
