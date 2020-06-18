@@ -23,6 +23,7 @@
 		967B73E824850F7F00F301FC /* InvertBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967B73E724850F7F00F301FC /* InvertBinaryTree.swift */; };
 		967BC0E624815BCD00405CEB /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967BC0E524815BCD00405CEB /* CourseSchedule.swift */; };
 		9681244E24878C1C00069929 /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9681244D24878C1C00069929 /* TwoCityScheduling.swift */; };
+		9683618D249B7F4000E823B0 /* HIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9683618C249B7F4000E823B0 /* HIndex.swift */; };
 		968C36FD248AE08F002D55ED /* RandomPickWithWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */; };
 		968C36FF248B8278002D55ED /* ReconstructQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968C36FE248B8278002D55ED /* ReconstructQueue.swift */; };
 		9694007C2492368C00002C13 /* SortColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9694007B2492368C00002C13 /* SortColors.swift */; };
@@ -122,6 +123,7 @@
 		967B73E724850F7F00F301FC /* InvertBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvertBinaryTree.swift; sourceTree = "<group>"; };
 		967BC0E524815BCD00405CEB /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CourseSchedule.swift; path = Problems/CourseSchedule.swift; sourceTree = "<group>"; };
 		9681244D24878C1C00069929 /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
+		9683618C249B7F4000E823B0 /* HIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HIndex.swift; sourceTree = "<group>"; };
 		968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomPickWithWeight.swift; sourceTree = "<group>"; };
 		968C36FE248B8278002D55ED /* ReconstructQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReconstructQueue.swift; sourceTree = "<group>"; };
 		9694007B2492368C00002C13 /* SortColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortColors.swift; sourceTree = "<group>"; };
@@ -352,6 +354,7 @@
 				967392BD24975E9B001B5DBD /* SearchInBinarySearchTree.swift */,
 				969CE8A02498B12B00437EC1 /* ValidateIPAddress.swift */,
 				960DBBF6249A013600F3940E /* SurroundedRegions.swift */,
+				9683618C249B7F4000E823B0 /* HIndex.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -532,6 +535,7 @@
 				96A646DC247E4E4A00AEA976 /* possibleBipartition.swift in Sources */,
 				96A9C735247A696800BDD0F9 /* frequencySort.swift in Sources */,
 				967B73E3248281F300F301FC /* ClosestPointsToOrigin.swift in Sources */,
+				9683618D249B7F4000E823B0 /* HIndex.swift in Sources */,
 				960F3765248E1B6700C07F7B /* PowerOfTwo.swift in Sources */,
 				967392B82494D1F1001B5DBD /* LargestDivisibleSubset.swift in Sources */,
 				96A9C749247A696800BDD0F9 /* removeKdigits.swift in Sources */,
