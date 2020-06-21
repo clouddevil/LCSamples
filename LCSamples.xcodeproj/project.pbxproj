@@ -87,6 +87,7 @@
 		96A9C74E247A696800BDD0F9 /* numOfIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C71F247A696800BDD0F9 /* numOfIslands.swift */; };
 		96A9C74F247A696800BDD0F9 /* Trie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C720247A696800BDD0F9 /* Trie.swift */; };
 		96C21E91249E198200815DC7 /* PermutationSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96C21E90249E198200815DC7 /* PermutationSequence.swift */; };
+		96C21E93249F64AA00815DC7 /* DungeonGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96C21E92249F64AA00815DC7 /* DungeonGame.swift */; };
 		96FBAE9F2488D8EA0006FABF /* ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96FBAE9E2488D8EA0006FABF /* ReverseString.swift */; };
 /* End PBXBuildFile section */
 
@@ -195,6 +196,7 @@
 		96A9C71F247A696800BDD0F9 /* numOfIslands.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = numOfIslands.swift; sourceTree = "<group>"; };
 		96A9C720247A696800BDD0F9 /* Trie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Trie.swift; sourceTree = "<group>"; };
 		96C21E90249E198200815DC7 /* PermutationSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationSequence.swift; sourceTree = "<group>"; };
+		96C21E92249F64AA00815DC7 /* DungeonGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DungeonGame.swift; sourceTree = "<group>"; };
 		96FBAE9E2488D8EA0006FABF /* ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -360,6 +362,7 @@
 				960DBBF6249A013600F3940E /* SurroundedRegions.swift */,
 				9683618C249B7F4000E823B0 /* HIndex.swift */,
 				963A0E3C249CA74F00BAA1F6 /* LongestDuplicateSubstring.swift */,
+				96C21E92249F64AA00815DC7 /* DungeonGame.swift */,
 				96C21E90249E198200815DC7 /* PermutationSequence.swift */,
 			);
 			path = Problems;
@@ -564,6 +567,7 @@
 				969CE8A12498B12B00437EC1 /* ValidateIPAddress.swift in Sources */,
 				96A9C743247A696800BDD0F9 /* StockSpanner.swift in Sources */,
 				9694007C2492368C00002C13 /* SortColors.swift in Sources */,
+				96C21E93249F64AA00815DC7 /* DungeonGame.swift in Sources */,
 				96A9C732247A696800BDD0F9 /* LRUCache.swift in Sources */,
 				9681244E24878C1C00069929 /* TwoCityScheduling.swift in Sources */,
 				960F3761248CCD5800C07F7B /* CoinChange2.swift in Sources */,

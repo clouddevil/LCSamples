@@ -1,11 +1,10 @@
 
+// 174. Dungeon Game
 
-
-
-public class DungeonGame {
-    public init() {}
+class DungeonGame {
+    init() {}
     
-    public func calculateMinimumHP(_ dungeon: [[Int]]) -> Int {
+    func calculateMinimumHP(_ dungeon: [[Int]]) -> Int {
         let m = dungeon.count
         let n = (m == 0) ? 0 : dungeon[0].count
         let boardRow = Array(repeating: Int.max, count: n + 1)
@@ -13,7 +12,7 @@ public class DungeonGame {
         board[m][n - 1] = 1
         board[m - 1][n] = 1
         
-        print (board)
+        //print (board)
         var i = m - 1
         while (i >= 0) {
             var j = n - 1
@@ -28,11 +27,3 @@ public class DungeonGame {
         return board[0][0]
     }
 }
-
-
-let s = DungeonGame()
-
-let v = [[-2,-3,3],
-         [-5,-10,1],
-         [10,30,-5]]
-s.calculateMinimumHP(v)
