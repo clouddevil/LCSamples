@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		960B7C5124A0A36E006A4EDF /* SingleNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960B7C5024A0A36E006A4EDF /* SingleNumber2.swift */; };
 		960DBBF7249A013600F3940E /* SurroundedRegions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960DBBF6249A013600F3940E /* SurroundedRegions.swift */; };
 		960F3761248CCD5800C07F7B /* CoinChange2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960F3760248CCD5800C07F7B /* CoinChange2.swift */; };
 		960F3765248E1B6700C07F7B /* PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960F3764248E1B6700C07F7B /* PowerOfTwo.swift */; };
@@ -109,6 +110,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		960B7C5024A0A36E006A4EDF /* SingleNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber2.swift; sourceTree = "<group>"; };
 		960DBBF6249A013600F3940E /* SurroundedRegions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurroundedRegions.swift; sourceTree = "<group>"; };
 		960F3760248CCD5800C07F7B /* CoinChange2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinChange2.swift; sourceTree = "<group>"; };
 		960F3764248E1B6700C07F7B /* PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PowerOfTwo.swift; sourceTree = "<group>"; };
@@ -364,6 +366,7 @@
 				963A0E3C249CA74F00BAA1F6 /* LongestDuplicateSubstring.swift */,
 				96C21E92249F64AA00815DC7 /* DungeonGame.swift */,
 				96C21E90249E198200815DC7 /* PermutationSequence.swift */,
+				960B7C5024A0A36E006A4EDF /* SingleNumber2.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -552,6 +555,7 @@
 				96A9C749247A696800BDD0F9 /* removeKdigits.swift in Sources */,
 				96A9C741247A696800BDD0F9 /* GroupAnagramms.swift in Sources */,
 				96A9C721247A696800BDD0F9 /* intervalIntersection.swift in Sources */,
+				960B7C5124A0A36E006A4EDF /* SingleNumber2.swift in Sources */,
 				96A9C746247A696800BDD0F9 /* canConstruct.swift in Sources */,
 				967B73E52483EAB900F301FC /* EditDistance.swift in Sources */,
 				9627F536247C67B300B5126F /* maxUncrossedLines.swift in Sources */,
