@@ -88,6 +88,7 @@
 		96A9C74D247A696800BDD0F9 /* longestCommonSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C71E247A696800BDD0F9 /* longestCommonSubsequence.swift */; };
 		96A9C74E247A696800BDD0F9 /* numOfIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C71F247A696800BDD0F9 /* numOfIslands.swift */; };
 		96A9C74F247A696800BDD0F9 /* Trie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A9C720247A696800BDD0F9 /* Trie.swift */; };
+		96B065D624A5191900DCC4F1 /* FindDuplicateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B065D524A5191900DCC4F1 /* FindDuplicateNumber.swift */; };
 		96C21E91249E198200815DC7 /* PermutationSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96C21E90249E198200815DC7 /* PermutationSequence.swift */; };
 		96C21E93249F64AA00815DC7 /* DungeonGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96C21E92249F64AA00815DC7 /* DungeonGame.swift */; };
 		96C717F924A1EFB7009DE66D /* CountCompleteTreeNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96C717F824A1EFB7009DE66D /* CountCompleteTreeNodes.swift */; };
@@ -200,6 +201,7 @@
 		96A9C71E247A696800BDD0F9 /* longestCommonSubsequence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = longestCommonSubsequence.swift; sourceTree = "<group>"; };
 		96A9C71F247A696800BDD0F9 /* numOfIslands.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = numOfIslands.swift; sourceTree = "<group>"; };
 		96A9C720247A696800BDD0F9 /* Trie.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Trie.swift; sourceTree = "<group>"; };
+		96B065D524A5191900DCC4F1 /* FindDuplicateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDuplicateNumber.swift; sourceTree = "<group>"; };
 		96C21E90249E198200815DC7 /* PermutationSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermutationSequence.swift; sourceTree = "<group>"; };
 		96C21E92249F64AA00815DC7 /* DungeonGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DungeonGame.swift; sourceTree = "<group>"; };
 		96C717F824A1EFB7009DE66D /* CountCompleteTreeNodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountCompleteTreeNodes.swift; sourceTree = "<group>"; };
@@ -373,6 +375,7 @@
 				960B7C5024A0A36E006A4EDF /* SingleNumber2.swift */,
 				96C717F824A1EFB7009DE66D /* CountCompleteTreeNodes.swift */,
 				9629CA2424A352490070D6BD /* UniqueBinarySearchTrees.swift */,
+				96B065D524A5191900DCC4F1 /* FindDuplicateNumber.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -537,6 +540,7 @@
 				96A9C727247A696800BDD0F9 /* floodFill.swift in Sources */,
 				968C36FD248AE08F002D55ED /* RandomPickWithWeight.swift in Sources */,
 				967392BE24975E9B001B5DBD /* SearchInBinarySearchTree.swift in Sources */,
+				96B065D624A5191900DCC4F1 /* FindDuplicateNumber.swift in Sources */,
 				96A9C72D247A696800BDD0F9 /* checkValidString.swift in Sources */,
 				967392BC2497393B001B5DBD /* CheapestFlightsWithinKStops.swift in Sources */,
 				967392B624936CFF001B5DBD /* InsertDeleteGetRandom.swift in Sources */,
