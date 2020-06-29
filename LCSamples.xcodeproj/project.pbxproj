@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		44241A7A24AA3D8F0046D780 /* UniquePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44241A7924AA3D8F0046D780 /* UniquePaths.swift */; };
 		442F6BE724A6001D001CEF03 /* SumRootToLeafNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442F6BE624A6001D001CEF03 /* SumRootToLeafNumbers.swift */; };
 		960B7C5124A0A36E006A4EDF /* SingleNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960B7C5024A0A36E006A4EDF /* SingleNumber2.swift */; };
 		960DBBF7249A013600F3940E /* SurroundedRegions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960DBBF6249A013600F3940E /* SurroundedRegions.swift */; };
@@ -114,6 +115,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		44241A7924AA3D8F0046D780 /* UniquePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePaths.swift; sourceTree = "<group>"; };
 		442F6BE624A6001D001CEF03 /* SumRootToLeafNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumRootToLeafNumbers.swift; sourceTree = "<group>"; };
 		960B7C5024A0A36E006A4EDF /* SingleNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber2.swift; sourceTree = "<group>"; };
 		960DBBF6249A013600F3940E /* SurroundedRegions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurroundedRegions.swift; sourceTree = "<group>"; };
@@ -379,6 +381,7 @@
 				9629CA2424A352490070D6BD /* UniqueBinarySearchTrees.swift */,
 				96B065D524A5191900DCC4F1 /* FindDuplicateNumber.swift */,
 				442F6BE624A6001D001CEF03 /* SumRootToLeafNumbers.swift */,
+				44241A7924AA3D8F0046D780 /* UniquePaths.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -595,6 +598,7 @@
 				96A9C724247A696800BDD0F9 /* checkInclusion.swift in Sources */,
 				96A9C74B247A696800BDD0F9 /* firstUnique.swift in Sources */,
 				96A9C739247A696800BDD0F9 /* checkStraightLine.swift in Sources */,
+				44241A7A24AA3D8F0046D780 /* UniquePaths.swift in Sources */,
 				96A9C6C6247A689700BDD0F9 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
