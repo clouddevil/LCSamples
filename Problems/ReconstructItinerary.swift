@@ -1,4 +1,7 @@
 
+
+// 332. Reconstruct Itinerary
+
 class ReconstructItinerary {
     var result = [String]()
     var targets = [String: [String]]()
@@ -22,6 +25,6 @@ class ReconstructItinerary {
     }
 }
 
-let v = ReconstructItinerary()
-v.findItinerary([["MUC", "LHR"], ["JFK", "MUC"], ["SFO", "SJC"], ["LHR", "SFO"]])
-v.findItinerary([["JFK", "SFO"], ["JFK", "ATL"], ["SFO", "ATL"], ["ATL", "JFK"], ["ATL", "SFO"]])
+//let v = ReconstructItinerary()
+//v.findItinerary([["MUC", "LHR"], ["JFK", "MUC"], ["SFO", "SJC"], ["LHR", "SFO"]])
+//v.findItinerary([["JFK", "SFO"], ["JFK", "ATL"], ["SFO", "ATL"], ["ATL", "JFK"], ["ATL", "SFO"]])

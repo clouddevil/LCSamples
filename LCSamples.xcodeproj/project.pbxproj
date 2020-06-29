@@ -17,6 +17,7 @@
 		9627F536247C67B300B5126F /* maxUncrossedLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9627F535247C67B300B5126F /* maxUncrossedLines.swift */; };
 		9629CA2524A352490070D6BD /* UniqueBinarySearchTrees.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9629CA2424A352490070D6BD /* UniqueBinarySearchTrees.swift */; };
 		962F796624865B6900907972 /* DeleteNodeInLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 962F796524865B6900907972 /* DeleteNodeInLinkedList.swift */; };
+		96307E0A24A8B90600A52144 /* ReconstructItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96307E0924A8B90600A52144 /* ReconstructItinerary.swift */; };
 		963A0E3D249CA74F00BAA1F6 /* LongestDuplicateSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 963A0E3C249CA74F00BAA1F6 /* LongestDuplicateSubstring.swift */; };
 		964B7D312490BF5F00025AA1 /* SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 964B7D302490BF5F00025AA1 /* SearchInsertPosition.swift */; };
 		967392B624936CFF001B5DBD /* InsertDeleteGetRandom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967392B524936CFF001B5DBD /* InsertDeleteGetRandom.swift */; };
@@ -29,6 +30,7 @@
 		967BC0E624815BCD00405CEB /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967BC0E524815BCD00405CEB /* CourseSchedule.swift */; };
 		9681244E24878C1C00069929 /* TwoCityScheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9681244D24878C1C00069929 /* TwoCityScheduling.swift */; };
 		9683618D249B7F4000E823B0 /* HIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9683618C249B7F4000E823B0 /* HIndex.swift */; };
+		968A23B924A72DF700B407EE /* PerfectSquares.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968A23B824A72DF700B407EE /* PerfectSquares.swift */; };
 		968C36FD248AE08F002D55ED /* RandomPickWithWeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */; };
 		968C36FF248B8278002D55ED /* ReconstructQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 968C36FE248B8278002D55ED /* ReconstructQueue.swift */; };
 		9694007C2492368C00002C13 /* SortColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9694007B2492368C00002C13 /* SortColors.swift */; };
@@ -125,6 +127,7 @@
 		9627F535247C67B300B5126F /* maxUncrossedLines.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxUncrossedLines.swift; sourceTree = "<group>"; };
 		9629CA2424A352490070D6BD /* UniqueBinarySearchTrees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniqueBinarySearchTrees.swift; sourceTree = "<group>"; };
 		962F796524865B6900907972 /* DeleteNodeInLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteNodeInLinkedList.swift; sourceTree = "<group>"; };
+		96307E0924A8B90600A52144 /* ReconstructItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReconstructItinerary.swift; sourceTree = "<group>"; };
 		963A0E3C249CA74F00BAA1F6 /* LongestDuplicateSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestDuplicateSubstring.swift; sourceTree = "<group>"; };
 		964B7D302490BF5F00025AA1 /* SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPosition.swift; sourceTree = "<group>"; };
 		967392B524936CFF001B5DBD /* InsertDeleteGetRandom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertDeleteGetRandom.swift; sourceTree = "<group>"; };
@@ -138,6 +141,7 @@
 		967BC0E524815BCD00405CEB /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CourseSchedule.swift; path = Problems/CourseSchedule.swift; sourceTree = "<group>"; };
 		9681244D24878C1C00069929 /* TwoCityScheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoCityScheduling.swift; sourceTree = "<group>"; };
 		9683618C249B7F4000E823B0 /* HIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HIndex.swift; sourceTree = "<group>"; };
+		968A23B824A72DF700B407EE /* PerfectSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectSquares.swift; sourceTree = "<group>"; };
 		968C36FC248AE08F002D55ED /* RandomPickWithWeight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomPickWithWeight.swift; sourceTree = "<group>"; };
 		968C36FE248B8278002D55ED /* ReconstructQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReconstructQueue.swift; sourceTree = "<group>"; };
 		9694007B2492368C00002C13 /* SortColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortColors.swift; sourceTree = "<group>"; };
@@ -381,6 +385,8 @@
 				9629CA2424A352490070D6BD /* UniqueBinarySearchTrees.swift */,
 				96B065D524A5191900DCC4F1 /* FindDuplicateNumber.swift */,
 				442F6BE624A6001D001CEF03 /* SumRootToLeafNumbers.swift */,
+				968A23B824A72DF700B407EE /* PerfectSquares.swift */,
+				96307E0924A8B90600A52144 /* ReconstructItinerary.swift */,
 				44241A7924AA3D8F0046D780 /* UniquePaths.swift */,
 			);
 			path = Problems;
@@ -548,6 +554,7 @@
 				967392BE24975E9B001B5DBD /* SearchInBinarySearchTree.swift in Sources */,
 				96B065D624A5191900DCC4F1 /* FindDuplicateNumber.swift in Sources */,
 				96A9C72D247A696800BDD0F9 /* checkValidString.swift in Sources */,
+				968A23B924A72DF700B407EE /* PerfectSquares.swift in Sources */,
 				967392BC2497393B001B5DBD /* CheapestFlightsWithinKStops.swift in Sources */,
 				967392B624936CFF001B5DBD /* InsertDeleteGetRandom.swift in Sources */,
 				96A9C730247A696800BDD0F9 /* isCousins.swift in Sources */,
@@ -580,6 +587,7 @@
 				96A9C740247A696800BDD0F9 /* numJewelsInStones.swift in Sources */,
 				442F6BE724A6001D001CEF03 /* SumRootToLeafNumbers.swift in Sources */,
 				96A9C744247A696800BDD0F9 /* findJudge.swift in Sources */,
+				96307E0A24A8B90600A52144 /* ReconstructItinerary.swift in Sources */,
 				9629CA2524A352490070D6BD /* UniqueBinarySearchTrees.swift in Sources */,
 				96A9C73C247A696800BDD0F9 /* CountingElements.swift in Sources */,
 				96A9C6C4247A689700BDD0F9 /* SceneDelegate.swift in Sources */,
