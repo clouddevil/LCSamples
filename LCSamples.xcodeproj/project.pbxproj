@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4416FCE224AC797700A2EA3E /* ArrangingCoins.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4416FCE124AC797700A2EA3E /* ArrangingCoins.swift */; };
 		44241A7A24AA3D8F0046D780 /* UniquePaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44241A7924AA3D8F0046D780 /* UniquePaths.swift */; };
 		442F6BE724A6001D001CEF03 /* SumRootToLeafNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 442F6BE624A6001D001CEF03 /* SumRootToLeafNumbers.swift */; };
 		44EF98CF24AB8C22005DBB55 /* WordSearch2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44EF98CE24AB8C22005DBB55 /* WordSearch2.swift */; };
@@ -118,6 +119,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4416FCE124AC797700A2EA3E /* ArrangingCoins.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrangingCoins.swift; sourceTree = "<group>"; };
 		44241A7924AA3D8F0046D780 /* UniquePaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UniquePaths.swift; sourceTree = "<group>"; };
 		442F6BE624A6001D001CEF03 /* SumRootToLeafNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumRootToLeafNumbers.swift; sourceTree = "<group>"; };
 		44EF98CE24AB8C22005DBB55 /* WordSearch2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSearch2.swift; sourceTree = "<group>"; };
@@ -391,6 +393,7 @@
 				96307E0924A8B90600A52144 /* ReconstructItinerary.swift */,
 				44241A7924AA3D8F0046D780 /* UniquePaths.swift */,
 				44EF98CE24AB8C22005DBB55 /* WordSearch2.swift */,
+				4416FCE124AC797700A2EA3E /* ArrangingCoins.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -594,6 +597,7 @@
 				9629CA2524A352490070D6BD /* UniqueBinarySearchTrees.swift in Sources */,
 				96A9C73C247A696800BDD0F9 /* CountingElements.swift in Sources */,
 				96A9C6C4247A689700BDD0F9 /* SceneDelegate.swift in Sources */,
+				4416FCE224AC797700A2EA3E /* ArrangingCoins.swift in Sources */,
 				44EF98CF24AB8C22005DBB55 /* WordSearch2.swift in Sources */,
 				967BC0E624815BCD00405CEB /* CourseSchedule.swift in Sources */,
 				96A9C731247A696800BDD0F9 /* leftMostColumnWithOne.swift in Sources */,
