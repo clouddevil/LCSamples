@@ -11,10 +11,10 @@
  *     public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
  * }
  */
-class Solution {
+class AddTwoNumbers {
     func addTwoNumbers(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
-        var result = ListNode()
-        var resultHead = result
+        var result = ListNode(0)
+        let resultHead = result
         var n1 = l1
         var n2 = l2
         var carry = 0
