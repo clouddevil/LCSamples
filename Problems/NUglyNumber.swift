@@ -1,7 +1,7 @@
 
 // 264. Ugly Number II
 
-class Solution {
+class UglyNumber {
     func nthUglyNumber(_ n: Int) -> Int {
       if (n <= 0) {
           return 0
