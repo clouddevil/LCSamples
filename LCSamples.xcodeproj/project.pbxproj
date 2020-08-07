@@ -19,6 +19,7 @@
 		449FA01424DB2626008488BD /* WordDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449FA01324DB2626008488BD /* WordDictionary.swift */; };
 		449FA01624DB308A008488BD /* ValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449FA01524DB308A008488BD /* ValidPalindrome.swift */; };
 		449FA01824DC08C1008488BD /* FindDuplicates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449FA01724DC08C1008488BD /* FindDuplicates.swift */; };
+		44C25A7C24DD39960090B6B0 /* VerticalTraversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44C25A7B24DD39960090B6B0 /* VerticalTraversal.swift */; };
 		44EF98CF24AB8C22005DBB55 /* WordSearch2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44EF98CE24AB8C22005DBB55 /* WordSearch2.swift */; };
 		960B7C5124A0A36E006A4EDF /* SingleNumber2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960B7C5024A0A36E006A4EDF /* SingleNumber2.swift */; };
 		960DBBF7249A013600F3940E /* SurroundedRegions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960DBBF6249A013600F3940E /* SurroundedRegions.swift */; };
@@ -140,6 +141,7 @@
 		449FA01324DB2626008488BD /* WordDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordDictionary.swift; sourceTree = "<group>"; };
 		449FA01524DB308A008488BD /* ValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidPalindrome.swift; sourceTree = "<group>"; };
 		449FA01724DC08C1008488BD /* FindDuplicates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindDuplicates.swift; sourceTree = "<group>"; };
+		44C25A7B24DD39960090B6B0 /* VerticalTraversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalTraversal.swift; sourceTree = "<group>"; };
 		44EF98CE24AB8C22005DBB55 /* WordSearch2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordSearch2.swift; sourceTree = "<group>"; };
 		960B7C5024A0A36E006A4EDF /* SingleNumber2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleNumber2.swift; sourceTree = "<group>"; };
 		960DBBF6249A013600F3940E /* SurroundedRegions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SurroundedRegions.swift; sourceTree = "<group>"; };
@@ -421,6 +423,7 @@
 				449FA01324DB2626008488BD /* WordDictionary.swift */,
 				449FA01524DB308A008488BD /* ValidPalindrome.swift */,
 				449FA01724DC08C1008488BD /* FindDuplicates.swift */,
+				44C25A7B24DD39960090B6B0 /* VerticalTraversal.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -624,6 +627,7 @@
 				9627F536247C67B300B5126F /* maxUncrossedLines.swift in Sources */,
 				96A9C74D247A696800BDD0F9 /* longestCommonSubsequence.swift in Sources */,
 				96A9C740247A696800BDD0F9 /* numJewelsInStones.swift in Sources */,
+				44C25A7C24DD39960090B6B0 /* VerticalTraversal.swift in Sources */,
 				449FA01624DB308A008488BD /* ValidPalindrome.swift in Sources */,
 				442F6BE724A6001D001CEF03 /* SumRootToLeafNumbers.swift in Sources */,
 				96A9C744247A696800BDD0F9 /* findJudge.swift in Sources */,
