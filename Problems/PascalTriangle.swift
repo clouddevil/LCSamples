@@ -1,15 +1,13 @@
-
+// 119. Pascal's Triangle II
 
 class PascalTriangle {
-    
     func getRow(_ rowIndex: Int) -> [Int] {
         guard rowIndex >= 0 else {
             return []
         }
-        
         var result = Array(repeating: 0, count: rowIndex + 1)
         result[0] = 1
-        
+
         var i = 1
         while (i <= rowIndex) {
             var j = i
@@ -21,8 +19,8 @@ class PascalTriangle {
         }
         return result
     }
-    
+
 }
 
 
-PascalTriangle().getRow(20)
+//PascalTriangle().getRow(20)
