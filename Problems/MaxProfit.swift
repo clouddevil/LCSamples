@@ -1,10 +1,8 @@
-import Foundation
 
-public class MaxProfit {
-    
-    public init() {}
-    
-    public func maxProfit(_ prices: [Int]) -> Int {
+// 122. Best Time to Buy and Sell Stock II
+
+class MaxProfit {
+    func maxProfit(_ prices: [Int]) -> Int {
         if (prices.isEmpty) {
             return 0
         }
