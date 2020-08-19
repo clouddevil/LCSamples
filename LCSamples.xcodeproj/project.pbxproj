@@ -19,6 +19,7 @@
 		4445762224E7FCFD0045071C /* EraseOverlapIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4445762124E7FCFD0045071C /* EraseOverlapIntervals.swift */; };
 		44460DD724EC73E4007CF888 /* NumsSameConsecDiff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44460DD624EC73E4007CF888 /* NumsSameConsecDiff.swift */; };
 		44876BCB24E5C73C00510111 /* CombinationIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44876BCA24E5C73C00510111 /* CombinationIterator.swift */; };
+		4496D7B624EDD3AD0023F0C3 /* GoatLatin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4496D7B524EDD3AD0023F0C3 /* GoatLatin.swift */; };
 		449FA01024DB2476008488BD /* HammingDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449FA00D24DB2476008488BD /* HammingDistance.swift */; };
 		449FA01124DB2476008488BD /* NUglyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449FA00E24DB2476008488BD /* NUglyNumber.swift */; };
 		449FA01224DB2476008488BD /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449FA00F24DB2476008488BD /* PlusOne.swift */; };
@@ -147,6 +148,7 @@
 		4445762124E7FCFD0045071C /* EraseOverlapIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EraseOverlapIntervals.swift; sourceTree = "<group>"; };
 		44460DD624EC73E4007CF888 /* NumsSameConsecDiff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumsSameConsecDiff.swift; sourceTree = "<group>"; };
 		44876BCA24E5C73C00510111 /* CombinationIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationIterator.swift; sourceTree = "<group>"; };
+		4496D7B524EDD3AD0023F0C3 /* GoatLatin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoatLatin.swift; sourceTree = "<group>"; };
 		449FA00D24DB2476008488BD /* HammingDistance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HammingDistance.swift; sourceTree = "<group>"; };
 		449FA00E24DB2476008488BD /* NUglyNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NUglyNumber.swift; sourceTree = "<group>"; };
 		449FA00F24DB2476008488BD /* PlusOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
@@ -442,6 +444,7 @@
 				442615A124E6F65500F61605 /* LongestPalindrome.swift */,
 				4445762124E7FCFD0045071C /* EraseOverlapIntervals.swift */,
 				44460DD624EC73E4007CF888 /* NumsSameConsecDiff.swift */,
+				4496D7B524EDD3AD0023F0C3 /* GoatLatin.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -638,6 +641,7 @@
 				967B73E3248281F300F301FC /* ClosestPointsToOrigin.swift in Sources */,
 				9683618D249B7F4000E823B0 /* HIndex.swift in Sources */,
 				96C717F924A1EFB7009DE66D /* CountCompleteTreeNodes.swift in Sources */,
+				4496D7B624EDD3AD0023F0C3 /* GoatLatin.swift in Sources */,
 				960F3765248E1B6700C07F7B /* PowerOfTwo.swift in Sources */,
 				967392B82494D1F1001B5DBD /* LargestDivisibleSubset.swift in Sources */,
 				96A9C749247A696800BDD0F9 /* removeKdigits.swift in Sources */,
