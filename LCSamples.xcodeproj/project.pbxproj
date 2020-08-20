@@ -20,6 +20,7 @@
 		44460DD724EC73E4007CF888 /* NumsSameConsecDiff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44460DD624EC73E4007CF888 /* NumsSameConsecDiff.swift */; };
 		44876BCB24E5C73C00510111 /* CombinationIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44876BCA24E5C73C00510111 /* CombinationIterator.swift */; };
 		4496D7B624EDD3AD0023F0C3 /* GoatLatin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4496D7B524EDD3AD0023F0C3 /* GoatLatin.swift */; };
+		449C64B524EE87A900100A7A /* ReorderList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449C64B424EE87A900100A7A /* ReorderList.swift */; };
 		449FA01024DB2476008488BD /* HammingDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449FA00D24DB2476008488BD /* HammingDistance.swift */; };
 		449FA01124DB2476008488BD /* NUglyNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449FA00E24DB2476008488BD /* NUglyNumber.swift */; };
 		449FA01224DB2476008488BD /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449FA00F24DB2476008488BD /* PlusOne.swift */; };
@@ -149,6 +150,7 @@
 		44460DD624EC73E4007CF888 /* NumsSameConsecDiff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumsSameConsecDiff.swift; sourceTree = "<group>"; };
 		44876BCA24E5C73C00510111 /* CombinationIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationIterator.swift; sourceTree = "<group>"; };
 		4496D7B524EDD3AD0023F0C3 /* GoatLatin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoatLatin.swift; sourceTree = "<group>"; };
+		449C64B424EE87A900100A7A /* ReorderList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorderList.swift; sourceTree = "<group>"; };
 		449FA00D24DB2476008488BD /* HammingDistance.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HammingDistance.swift; sourceTree = "<group>"; };
 		449FA00E24DB2476008488BD /* NUglyNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NUglyNumber.swift; sourceTree = "<group>"; };
 		449FA00F24DB2476008488BD /* PlusOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
@@ -445,6 +447,7 @@
 				4445762124E7FCFD0045071C /* EraseOverlapIntervals.swift */,
 				44460DD624EC73E4007CF888 /* NumsSameConsecDiff.swift */,
 				4496D7B524EDD3AD0023F0C3 /* GoatLatin.swift */,
+				449C64B424EE87A900100A7A /* ReorderList.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -676,6 +679,7 @@
 				96C21E93249F64AA00815DC7 /* DungeonGame.swift in Sources */,
 				96A9C732247A696800BDD0F9 /* LRUCache.swift in Sources */,
 				9681244E24878C1C00069929 /* TwoCityScheduling.swift in Sources */,
+				449C64B524EE87A900100A7A /* ReorderList.swift in Sources */,
 				960F3761248CCD5800C07F7B /* CoinChange2.swift in Sources */,
 				96A9C736247A696800BDD0F9 /* bstTree.swift in Sources */,
 				96A9C724247A696800BDD0F9 /* checkInclusion.swift in Sources */,
