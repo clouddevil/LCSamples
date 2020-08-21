@@ -1,6 +1,6 @@
 // 905. Sort Array By Parity
 
-
+// 60ms
 class Solution {
     func sortArrayByParity(_ A: [Int]) -> [Int] {
         var odd = [Int]()
@@ -17,4 +17,13 @@ class Solution {
 }
 
 
-
+/*
+// 80ms
+class Solution {
+    func sortArrayByParity(_ A: [Int]) -> [Int] {
+        return A.sorted {
+            return ($0 % 2 - $1 % 2) < 0
+        }        
+    }
+}
+*/
