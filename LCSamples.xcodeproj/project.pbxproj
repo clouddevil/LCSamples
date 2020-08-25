@@ -18,6 +18,7 @@
 		44311EDC24E933CF00144796 /* MaxProfit2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44311EDB24E933CF00144796 /* MaxProfit2.swift */; };
 		4445762224E7FCFD0045071C /* EraseOverlapIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4445762124E7FCFD0045071C /* EraseOverlapIntervals.swift */; };
 		44460DD724EC73E4007CF888 /* NumsSameConsecDiff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44460DD624EC73E4007CF888 /* NumsSameConsecDiff.swift */; };
+		445DAD9024F574D5003180F0 /* MincostTickets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445DAD8F24F574D5003180F0 /* MincostTickets.swift */; };
 		44876BCB24E5C73C00510111 /* CombinationIterator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44876BCA24E5C73C00510111 /* CombinationIterator.swift */; };
 		4496D7B624EDD3AD0023F0C3 /* GoatLatin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4496D7B524EDD3AD0023F0C3 /* GoatLatin.swift */; };
 		449C64B524EE87A900100A7A /* ReorderList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449C64B424EE87A900100A7A /* ReorderList.swift */; };
@@ -148,6 +149,7 @@
 		44311EDB24E933CF00144796 /* MaxProfit2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxProfit2.swift; sourceTree = "<group>"; };
 		4445762124E7FCFD0045071C /* EraseOverlapIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EraseOverlapIntervals.swift; sourceTree = "<group>"; };
 		44460DD624EC73E4007CF888 /* NumsSameConsecDiff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumsSameConsecDiff.swift; sourceTree = "<group>"; };
+		445DAD8F24F574D5003180F0 /* MincostTickets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MincostTickets.swift; sourceTree = "<group>"; };
 		44876BCA24E5C73C00510111 /* CombinationIterator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinationIterator.swift; sourceTree = "<group>"; };
 		4496D7B524EDD3AD0023F0C3 /* GoatLatin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoatLatin.swift; sourceTree = "<group>"; };
 		449C64B424EE87A900100A7A /* ReorderList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReorderList.swift; sourceTree = "<group>"; };
@@ -448,6 +450,7 @@
 				44460DD624EC73E4007CF888 /* NumsSameConsecDiff.swift */,
 				4496D7B524EDD3AD0023F0C3 /* GoatLatin.swift */,
 				449C64B424EE87A900100A7A /* ReorderList.swift */,
+				445DAD8F24F574D5003180F0 /* MincostTickets.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -610,6 +613,7 @@
 				960DBBF7249A013600F3940E /* SurroundedRegions.swift in Sources */,
 				440974E924ADC36200D4DA60 /* AddTwoNumbers.swift in Sources */,
 				442615A224E6F65500F61605 /* LongestPalindrome.swift in Sources */,
+				445DAD9024F574D5003180F0 /* MincostTickets.swift in Sources */,
 				967B73E824850F7F00F301FC /* InvertBinaryTree.swift in Sources */,
 				96A9C6C2247A689700BDD0F9 /* AppDelegate.swift in Sources */,
 				96A9C729247A696800BDD0F9 /* rangeBitwiseAnd.swift in Sources */,
